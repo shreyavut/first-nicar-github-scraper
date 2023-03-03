@@ -36,7 +36,7 @@ jobs:
       env:
           INCOMING_WEBHOOK_URL: ${{ secrets.SLACK_WEBHOOK }}
       with:
-          text: Something went wrong.
+          text: Fix your code, loser. 
           attachments: |
             [
               {
